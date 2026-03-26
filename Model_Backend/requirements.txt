@@ -1,0 +1,12 @@
+streamlit
+ultralytics
+opencv-python-headless
+Pillow
+numpy
+fpdf2
+torch
+torchvision
+matplotlib
+transformers>=4.35.0
+opencv-python>=4.8.0
+pandas>=2.0.0
